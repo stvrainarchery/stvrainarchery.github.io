@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>St Vrain Archery Club</title>
+    <link>https://paulprogrammer.github.io/the-range/</link>
+    <description>Recent content on St Vrain Archery Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 15 Nov 2018 13:57:53 -0700</lastBuildDate>
+    
+	<atom:link href="https://paulprogrammer.github.io/the-range/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
